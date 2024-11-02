@@ -1,0 +1,41 @@
+Name,Species,Homeworld,Affiliation,First Appearance,Weapon,Force Sensitive,Rank,Ship,Droid Companion,Mission Count,Lightsaber Color,Known Languages,Allegiance
+Luke Skywalker,Human,Tatooine,Rebel Alliance,A New Hope,Blaster,True,Bounty Hunter,Y-Wing,IG-88,49,Blue,9,Rebels
+Darth Vader,Human,Tatooine,Galactic Empire,A New Hope,Blaster,True,Padawan,X-Wing,IG-88,90,None,6,Neutral
+Leia Organa,Human,Alderaan,Rebel Alliance,A New Hope,Vibroblade,False,Sith Lord,Millennium Falcon,Chopper,19,Green,6,Neutral
+Han Solo,Human,Corellia,Rebel Alliance,A New Hope,Lightsaber,True,Bounty Hunter,A-Wing,Chopper,98,Blue,7,Sith
+Obi-Wan Kenobi,Human,Stewjon,Jedi Order,A New Hope,Thermal Detonator,False,Jedi Master,Millennium Falcon,K-2SO,24,Blue,4,Neutral
+Yoda,Yoda's species,Unknown,Jedi Order,The Empire Strikes Back,Vibroblade,False,General,Star Destroyer,IG-88,15,Red,5,Neutral
+Anakin Skywalker,Human,Tatooine,Jedi Order,The Phantom Menace,Bowcaster,True,Captain,A-Wing,BB-8,30,Blue,1,Neutral
+Padmé Amidala,Human,Naboo,Galactic Republic,The Phantom Menace,Blaster,False,Sith Apprentice,Y-Wing,K-2SO,17,Purple,2,Neutral
+Palpatine,Human,Naboo,Sith,The Phantom Menace,Bowcaster,True,Jedi Master,TIE Fighter,C-3PO,86,Red,3,Rebels
+Mace Windu,Human,Haruun Kal,Jedi Order,The Phantom Menace,Vibroblade,False,Jedi Master,Millennium Falcon,BB-8,78,Purple,2,Sith
+Chewbacca,Wookiee,Kashyyyk,Rebel Alliance,A New Hope,Electrostaff,True,Padawan,TIE Fighter,Chopper,44,Green,6,Rebels
+R2-D2,Droid,Naboo,Rebel Alliance,A New Hope,Thermal Detonator,True,Padawan,X-Wing,R2-D2,32,Yellow,2,Empire
+C-3PO,Droid,Tatooine,Rebel Alliance,A New Hope,Vibroblade,False,Bounty Hunter,Star Destroyer,,2,Yellow,8,Rebels
+Boba Fett,Human,Kamino,Bounty Hunter,The Empire Strikes Back,Bowcaster,False,General,A-Wing,BB-8,1,Yellow,9,Neutral
+Jabba the Hutt,Hutt,Nal Hutta,Crime Lord,Return of the Jedi,Vibroblade,True,Captain,Y-Wing,K-2SO,16,Red,2,Sith
+Lando Calrissian,Human,Socorro,Rebel Alliance,The Empire Strikes Back,Bowcaster,False,Captain,Slave I,K-2SO,74,Green,9,Jedi Order
+Qui-Gon Jinn,Human,Coruscant,Jedi Order,The Phantom Menace,Electrostaff,False,Sith Lord,Y-Wing,BB-8,37,Red,8,Sith
+Count Dooku,Human,Serenno,Sith,Attack of the Clones,Thermal Detonator,True,Sith Lord,Millennium Falcon,R2-D2,54,Purple,4,Sith
+Rey,Human,Jakku,Resistance,The Force Awakens,Electrostaff,True,Jedi Knight,Star Destroyer,C-3PO,38,None,4,Sith
+Finn,Human,Unknown,Resistance,The Force Awakens,Blaster,False,Captain,Millennium Falcon,Chopper,50,Blue,5,Neutral
+Kylo Ren,Human,Chandrila,First Order,The Force Awakens,Vibroblade,False,Jedi Knight,X-Wing,IG-88,91,Yellow,3,Sith
+Poe Dameron,Human,Yavin 4,Resistance,The Force Awakens,Blaster,False,Padawan,Slave I,,59,Blue,6,Jedi Order
+BB-8,Droid,Unknown,Resistance,The Force Awakens,Blaster,False,Sith Apprentice,Millennium Falcon,BB-8,42,Purple,3,Sith
+General Hux,Human,Arkanis,First Order,The Force Awakens,Electrostaff,True,Jedi Master,Star Destroyer,BB-8,28,Green,6,Rebels
+Maz Kanata,Unknown,Takodana,Pirate,The Force Awakens,Bowcaster,False,Captain,A-Wing,,55,Yellow,5,Sith
+Jyn Erso,Human,Unknown,Rebel Alliance,Rogue One,Blaster,True,Jedi Master,Millennium Falcon,R2-D2,70,Blue,9,Rebels
+Cassian Andor,Human,Fest,Rebel Alliance,Rogue One,Bowcaster,True,Jedi Master,Slave I,K-2SO,31,Green,4,Rebels
+K-2SO,Droid,Unknown,Rebel Alliance,Rogue One,Lightsaber,False,General,A-Wing,K-2SO,93,None,3,Neutral
+Saw Gerrera,Human,Onderon,Rebel Alliance,Rogue One,Thermal Detonator,True,Padawan,A-Wing,BB-8,45,Green,5,Jedi Order
+Director Krennic,Human,Lexrul,Galactic Empire,Rogue One,Thermal Detonator,False,General,TIE Fighter,K-2SO,91,Yellow,1,Empire
+Snoke,Unknown,Unknown,First Order,The Force Awakens,Blaster,True,Captain,Star Destroyer,C-3PO,82,Green,1,Neutral
+Rose Tico,Human,Hays Minor,Resistance,The Last Jedi,Vibroblade,False,Sith Apprentice,Slave I,Chopper,62,White,4,Rebels
+DJ,Human,Unknown,Scoundrel,The Last Jedi,Blaster,True,Padawan,A-Wing,K-2SO,36,Green,1,Neutral
+The Mandalorian,Human,Unknown,Bounty Hunter,The Mandalorian,Blaster,False,Sith Lord,Slave I,C-3PO,64,White,5,Jedi Order
+Grogu,Yoda's species,Unknown,Unknown,The Mandalorian,Blaster,False,Jedi Knight,Slave I,C-3PO,12,Blue,7,Sith
+Bo-Katan Kryze,Human,Kryze,Nite Owls,The Mandalorian,Electrostaff,False,Sith Apprentice,Slave I,R2-D2,2,Green,5,Sith
+Ahsoka Tano,Togruta,Shili,Jedi Order,The Clone Wars,Thermal Detonator,False,Jedi Knight,X-Wing,,72,Purple,3,Sith
+Ezra Bridger,Human,Lothal,Rebel Alliance,Rebels,Lightsaber,True,Jedi Master,Millennium Falcon,BB-8,71,Red,2,Empire
+Hera Syndulla,Twi'lek,Ryloth,Rebel Alliance,Rebels,Electrostaff,True,General,Y-Wing,,64,Purple,4,Sith
+Thrawn,Chiss,Unknown,Galactic Empire,Rebels,Lightsaber,True,General,A-Wing,,91,None,9,Rebels
